@@ -1,0 +1,24 @@
+@import "weather.css";
+@import "clock.css";
+@import "quotes.css";
+@import "login.css";
+@import "main2.css";
+@import "quotes1.css";
+
+.hidden {
+    display: none;
+}
+
+
+  body {
+    font-family: 'Asap Condensed', sans-serif;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    color: white;
+  }
+
+  body img {
+    opacity: 0px;
+  }
